@@ -2,8 +2,6 @@
 #include <algorithm>
 using namespace std;
 
-
-
 int main(){
     class Solution {
     public:
@@ -25,8 +23,9 @@ int main(){
     Solution s;
     vector<int> nums = {2,3,4,5,7,9};
     vector<int> d = s.twoSum(nums,9);
-    for (int i = 0; i < d.size(); i) {
-        cout << nums[i] <<endl;
+    for (int i = 0; i < int(d.size()); i++) {
+        cout << d[i] <<endl;
     }
+    getchar();
     return 0;
 }
