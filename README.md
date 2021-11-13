@@ -1,4 +1,4 @@
-# ALgorithmInterview
+# ALgorithm Interview
 
 算法岗位面试准备相关内容
 
