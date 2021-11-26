@@ -20,7 +20,7 @@
 
 
 
-包含两部分：**自底向上的线路（bottom-up pathway）**和 **自顶向下的线路和（top-down pathway）横向连接（lateral connections）**
+包含两部分：**自底向上的线路（bottom-up pathway）** 和 **自顶向下的线路和（top-down pathway）横向连接（lateral connections）**
 
 1. **自底向上**：其实就是卷积网络的前向过程。在前向过程中，`feature map` 的大小在经过某些层后会改变，而在经过其他一些层的时候不会改变，作者将不改变 feature map 大小的层归为一个 stage，因此这里金字塔结构中每次抽取的特征都是每个 `stage` 的最后一个层的输出。在代码中我们可以看到共有`C1、C2、C3、C4、C5`五个特征图，`C1` 和 `C2` 的特征图大小是一样的，所以，`FPN` 的建立也是基于从 `C2` 到 `C5` 这四个特征层上。
 
@@ -79,7 +79,7 @@ class Bottleneck(nn.Module):
             self.shortcut = nn.Sequential(
                 nn.Conv2d(in_planes, self.expansion*planes, kernel_size=1, stride=stride, bias=False),
                 nn.BatchNorm2d(self.expansion*planes)
-            )
+            )g
     def forward(self, x):
         out = F.relu(self.bn1(self.conv1(x)))
         out = F.relu(self.bn2(self.conv2(out)))

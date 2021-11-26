@@ -1,3 +1,8 @@
+---
+
+mindmap-plugin: basic
+
+---
 # Terms In CV
 
 ## 1 从分类器开始
@@ -213,7 +218,7 @@
 ### 过拟合(overfitting)
 
 - Dropout
-- Noise
+- Noise 
 
 ### 泛化能力(generalization)
 

@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "db8a278832270adb",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb3707d2460d462b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "6-Pose Estimation and Track/PoseTrack/PoseTrackNotes.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d495800d9c617de",
+    "type": "split",
+    "children": [
+      {
+        "id": "f701b103ee6db555",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32aa6e68eaed7c9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Learning",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e77b24381758647",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e4d683713edd32f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.0042610168457
+  },
+  "right": {
+    "id": "9752f9439f9f610c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aee3d5b89a7af693",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af5b9bb98e39806",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6-Pose Estimation and Track/PoseTrack/PoseTrackNotes.md"
+              }
+            }
+          },
+          {
+            "id": "5cbcbd686e7a7e6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f16d67840aa77be6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c32d02f1da668aa1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6-Pose Estimation and Track/PoseTrack/PoseTrackNotes.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.0908508300781,
+    "collapsed": true
+  },
+  "active": "cb3707d2460d462b",
+  "lastOpenFiles": [
+    "6-Pose Estimation and Track/PoseTrack/PoseTrackNotes.md",
+    "6-Pose Estimation and Track/PoseTrack/2020 The Devil is in the Details Delving into Unbiased Data Processing for Human Pose Estimation.md",
+    "6-Pose Estimation and Track/PoseTrack/2019 LightTrack.md",
+    "6-Pose Estimation and Track/PoseEstimation/PoseEstimationNotes.md",
+    "6-Pose Estimation and Track/PoseTrack/2020 Combining detection and tracking for human pose estimation in videos .md",
+    "6-Pose Estimation and Track/轻量级姿态估计的技巧笔记.md",
+    "6-Pose Estimation and Track/和老师讨论.md",
+    "6-Pose Estimation and Track/用指数滑动平均滤波来稳定轻量模型的输出.md",
+    "6-Pose Estimation and Track/PoseEstimation/2020 Objects as Points.md",
+    "6-Pose Estimation and Track/PoseEstimation/2018 CVPR - DSNT - Numerical Coordinate Regression with Convolutional Neural Networks.md"
+  ]
+}
