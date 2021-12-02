@@ -53,7 +53,7 @@
 
 **2021.03_Self-supervised Keypoint Correspondences for Multi-Person Pose Estimation and Tracking in Videos**
 
-### 2. 7 Transformer
+### 2.7 Transformer
 
 **2020.03_(KeyTrack) 15 Keypoints Is All You Need**
 

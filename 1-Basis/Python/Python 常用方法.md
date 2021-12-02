@@ -1,13 +1,11 @@
-[TOC]
-
 # 数据格式
 
 ## 字符串 string
 
-1. **str() **转换为字符串
-2. **str1 + str2 **对多个字符串进行拼接
-3.  **len(str)** 计算字符串的长度
-4. **string[start : end : step]**  截取字符串
+1. **str()** 转换为字符串
+2. **str1 + str2** 对多个字符串进行拼接
+3.  **len(str1)** 计算字符串的长度
+4. **string[start : end : step]**  字符串切片
 5. **str.split(sep, maxsplit)** 分割字符串 **maxsplit**:可选参数,用于指定分割的次数,如果不指定或者为-1,则分割次数没有限制,否则返回结果列表的元素个数最多为 maxsplit+1
 6. **检索字符串**
    1. **count()方法** `str.count(sub[, start[, end]])` 用于检索指定字符串在另一个字符串中出现的次数，如果检索的字符串不存在则返回0，否则返回出现的次数。
@@ -24,9 +22,33 @@
 ...
 
 ## 字典 dict
-
+|Method|	Description|
+|---|---|
+clear()|	Removes all the elements from the dictionary
+copy()|	Returns a copy of the dictionary
+fromkeys()|	Returns a dictionary with the specified keys and value
+get()|	Returns the value of the specified key
+items()|	Returns a list containing a tuple for each key value pair
+keys()|	Returns a list containing the dictionary's keys
+pop()|	Removes the element with the specified key
+popitem()|	Removes the last inserted key-value pair
+setdefault()|	Returns the value of the specified key. If the key does not exist: insert the key, with the specified value
+update()|	Updates the dictionary with the specified key-value pairs
+values()|	Returns a list of all the values in the dictionary
 ## 列表 list
-
+|Method|	Description|
+|---|---|
+append()|	Adds an element at the end of the list
+clear()|	Removes all the elements from the list
+copy()|	Returns a copy of the list
+count()|	Returns the number of elements with the specified value
+extend()|	Add the elements of a list (or any iterable), to the end of the current list
+index()|	Returns the index of the first element with the specified value
+insert()|	Adds an element at the specified position
+pop()|	Removes the element at the specified position
+remove()|	Removes the first item with the specified value
+reverse()|	Reverses the order of the list
+sort()|	Sorts the list
 ### 增加
 
 1. **list.append()** 增加元素
@@ -51,7 +73,27 @@
 5. 列表转换成字符串（a.直接使用字符串join方法：列表中的元素只有字符串 b.需要自己写for循环一个一个处理： 既有数字又有字符串）
 
 
+## 集合 set 
 
+|Method|	Description|
+|---|---|
+add()|	Adds an element to the set
+clear()|	Removes all the elements from the set
+copy()|	Returns a copy of the set
+difference()|	Returns a set containing the difference between two or more sets
+difference_update()|	Removes the items in this set that are also included in another, specified set
+discard()|	Remove the specified item
+intersection()|	Returns a set, that is the intersection of two or more sets
+intersection_update()|	Removes the items in this set that are not present in other, specified set(s)
+isdisjoint()|	Returns whether two sets have a intersection or not
+issubset()|	Returns whether another set contains this set or not
+issuperset()|	Returns whether this set contains another set or not
+pop()|	Removes an element from the set
+remove()|	Removes the specified element
+symmetric_difference()|	Returns a set with the symmetric differences of two sets
+symmetric_difference_update()|	inserts the symmetric differences from this set and another
+union()|	Return a set containing the union of sets
+update()|	Update the set with another set, or any other iterable
 # 操作
 
 ## 遍历
@@ -68,5 +110,7 @@
 
 
 
+---
+https://www.w3schools.com/python/python_ref_glossary.asp
 
 

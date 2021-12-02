@@ -160,7 +160,7 @@ Disabled features */
   --font-ui:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 
   /* Sizes, weights, padding */
-  --font-normal:16px;
+  --font-normal:15px;
   --font-small:13px;
   --font-smaller:11px;
   --font-smallest:10px;
@@ -184,7 +184,7 @@ Disabled features */
   --normal-weight:400;   /* Switch to 300 if you want thinner default text */
   --bold-weight:600;     /* Switch to 700 if you want thicker bold text */
   --line-width:40rem;    /* Maximum characters per line */
-  --line-height:1.5;
+  --line-height:1.7;
   --max-width:88%;       /* Amount of padding around the text, use 90% for narrower padding */
   --nested-padding:3.5%; /* Amount of padding for quotes and transclusions */
   --icon-muted:0.5;
@@ -251,10 +251,13 @@ body {
 .theme-light {
 
   --text-normal:hsl(var(--base-h),var(--base-s),calc(var(--base-l) - 90%));
+  /* --text-muted:hsl(var(--base-h),calc(var(--base-s) - 5%),calc(var(--base-l) - 45%)); */
   --text-muted:hsl(var(--base-h),calc(var(--base-s) - 5%),calc(var(--base-l) - 45%));
-  --text-faint:hsl(var(--base-h),calc(var(--base-s) - 5%),calc(var(--base-l) - 25%));
+  /* --text-faint:hsl(var(--base-h),calc(var(--base-s) - 5%),calc(var(--base-l) - 25%)); */
+  --text-faint:#DB4D52;
 
-  --text-accent:hsl(var(--accent-h),var(--accent-s),var(--accent-l));
+  --text-accent:#DB4D52;
+  /* --text-accent:hsl(var(--accent-h),var(--accent-s),var(--accent-l)); */
   --text-accent-hover:hsl(var(--accent-h),var(--accent-s),calc(var(--accent-l) - 10%));
   --text-on-accent:white;
 
@@ -2536,7 +2539,7 @@ body:not(.is-mobile).fancy-cursor .mod-cm6 .cm-cursor {
   width:20px;
   display:inline-block;
   border-left:none;
-  border-right:1px solid var(--quote-opening-modifier);
+  border-right:2px solid var(--quote-opening-modifier);
   height:1em;
 }
 .markdown-source-view.mod-cm6 .cm-hmd-indent-in-quote {
@@ -2756,6 +2759,7 @@ body:not(.is-mobile).fancy-cursor .mod-cm6 .cm-cursor {
 /* Editor Mode Lists */
 .cm-formatting-list {
   color:var(--text-faint) !important;
+  font-weight:bold;
 }
 /* Editor Mode Quotes */
 .cm-formatting-quote {
@@ -3499,7 +3503,8 @@ h5:hover .heading-collapse-indicator.collapse-indicator svg,
 .markdown-preview-view ul > li:not(.task-list-item) .collapse-indicator {
   padding-right:20px;}
 .markdown-preview-view ul > li:not(.task-list-item)::marker {
-  font-size:0.9em;}
+  font-size:0.9em;
+}
 
 .list-collapse-indicator .collapse-indicator .collapse-icon {
   opacity:0;
@@ -4312,11 +4317,13 @@ audio::-webkit-media-controls-panel {
 .markdown-preview-view blockquote {
   border-radius:0;
   border:solid var(--quote-opening-modifier);
-  border-width:0px 0px 0px 1px;
+  border-width:0px 0px 0px 2px;
+  border-color: #e96367;
   background-color:transparent;
   color:var(--text-muted);
   padding:0 0 0 calc(var(--nested-padding) / 2);
   margin-inline-start:var(--nested-padding);
+  font-size: var(--font-small);
 }
 
 /* Tables */
@@ -4426,6 +4433,7 @@ ul > li {
 ul > li::marker,
 ol > li::marker {
   color:var(--text-faint);
+  font-weight:bold;
 }
 ol > li {
   margin-left:0em;}
