@@ -1,27 +1,16 @@
 {
   "main": {
-    "id": "ff7a0453c2d23dfe",
+    "id": "c23acd05d2d0f6bf",
     "type": "split",
     "children": [
       {
-        "id": "ea47fee1a775c9e7",
+        "id": "78badd7c08fbc7db",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1-Basis/Python/Python 常用方法.md",
+            "file": "5_Deep-Learning/00_Basic/关于 super( ).__init__( ).md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1d08b459741acd64",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1-Basis/Python/Python 常用方法.md",
-            "mode": "preview"
           }
         }
       }
@@ -33,16 +22,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f701b103ee6db555",
+        "id": "6bf6ccb52d59c2cb",
         "type": "tabs",
         "children": [
+          {
+            "id": "3e4d683713edd32f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
           {
             "id": "32aa6e68eaed7c9c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Learning",
+                "query": "卷积层",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,20 +57,20 @@
             }
           },
           {
-            "id": "3e4d683713edd32f",
+            "id": "1af5b9bb98e39806",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "5_Deep-Learning/00_Basic/关于 super( ).__init__( ).md"
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 235.0042610168457,
-    "collapsed": true
+    "width": 259.0042610168457
   },
   "right": {
     "id": "9752f9439f9f610c",
@@ -84,16 +81,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1af5b9bb98e39806",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "1-Basis/Python/Python 常用方法.md"
-              }
-            }
-          },
-          {
             "id": "5cbcbd686e7a7e6f",
             "type": "leaf",
             "state": {
@@ -103,28 +90,30 @@
                 "useHierarchy": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "f16d67840aa77be6",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "c32d02f1da668aa1",
+            "id": "542f15f217f8b69b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Basis/Python/Python 常用方法.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "5_Deep-Learning/00_Basic/关于 super( ).__init__( ).md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "724ded0b9932fdd2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -134,17 +123,17 @@
     "width": 341.0908508300781,
     "collapsed": true
   },
-  "active": "1d08b459741acd64",
+  "active": "78badd7c08fbc7db",
   "lastOpenFiles": [
-    "1-Basis/Python/Python 常用方法.md",
-    "6-Pose Estimation and Track/PoseTrack/PoseTrackNotes.md",
-    "6-Pose Estimation and Track/轻量级姿态估计的技巧笔记.md",
-    "6-Pose Estimation and Track/和老师讨论.md",
-    "6-Pose Estimation and Track/PoseTrack/2020 Combining detection and tracking for human pose estimation in videos .md",
-    "6-Pose Estimation and Track/PoseTrack/2019 LightTrack.md",
-    "6-Pose Estimation and Track/PoseEstimation/PoseEstimationNotes.md",
-    "6-Pose Estimation and Track/PoseEstimation/2021 FCPose.md",
-    "6-Pose Estimation and Track/PoseEstimation/2020 Objects as Points.md",
-    "6-Pose Estimation and Track/PoseEstimation/2018 CVPR - DSNT - Numerical Coordinate Regression with Convolutional Neural Networks.md"
+    "5_Deep-Learning/00_Basic/关于 super( ).__init__( ).md",
+    "5_Deep-Learning/00_Basic/Loss Function.md",
+    "5_Deep-Learning/00_Basic/encode - decode 编码器解码器.md",
+    "5_Deep-Learning/Terms In CV.md",
+    "5_Deep-Learning/DeformableConvNets.md",
+    "5_Deep-Learning/CV Paper Link.md",
+    "6-Pose Estimation and Track/CenterTrack.md",
+    "6-Pose Estimation and Track/用指数滑动平均滤波来稳定轻量模型的输出.md",
+    "6-Pose Estimation and Track/CVPR 2021 姿态估计跟踪论文整理.md",
+    "6-Pose Estimation and Track/PoseEstimationAndPoseTrack.md"
   ]
 }

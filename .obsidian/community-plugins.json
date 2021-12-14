@@ -1,8 +1,11 @@
 [
   "obsidian-git",
-  "obsidian-hider",
   "ProxyGithub",
   "obsidian-enhancing-mindmap",
   "hotkeysplus-obsidian",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-hider",
+  "obsidian-kanban",
+  "calendar",
+  "tag-wrangler"
 ]
