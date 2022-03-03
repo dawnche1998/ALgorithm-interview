@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5_Deep-Learning/00_Basic/关于 super( ).__init__( ).md",
-            "mode": "source"
+            "file": "6-Pose-Estimation-and-Track/PoseTrack/PoseTrackNotes.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -62,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_Deep-Learning/00_Basic/关于 super( ).__init__( ).md"
+                "file": "6-Pose-Estimation-and-Track/PoseTrack/PoseTrackNotes.md"
               }
             }
           }
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Deep-Learning/00_Basic/关于 super( ).__init__( ).md",
+                "file": "6-Pose-Estimation-and-Track/PoseTrack/PoseTrackNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +126,8 @@
   },
   "active": "78badd7c08fbc7db",
   "lastOpenFiles": [
+    "6-Pose-Estimation-and-Track/PoseTrack/PoseTrackNotes.md",
+    "6-Pose-Estimation-and-Track/PoseEstimation/PoseEstimationNotes.md",
     "5_Deep-Learning/00_Basic/关于 super( ).__init__( ).md",
     "5_Deep-Learning/00_Basic/Loss Function.md",
     "5_Deep-Learning/00_Basic/encode - decode 编码器解码器.md",
@@ -132,8 +135,6 @@
     "5_Deep-Learning/DeformableConvNets.md",
     "5_Deep-Learning/CV Paper Link.md",
     "6-Pose Estimation and Track/CenterTrack.md",
-    "6-Pose Estimation and Track/用指数滑动平均滤波来稳定轻量模型的输出.md",
-    "6-Pose Estimation and Track/CVPR 2021 姿态估计跟踪论文整理.md",
-    "6-Pose Estimation and Track/PoseEstimationAndPoseTrack.md"
+    "6-Pose Estimation and Track/用指数滑动平均滤波来稳定轻量模型的输出.md"
   ]
 }

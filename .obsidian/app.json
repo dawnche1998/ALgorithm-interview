@@ -9,5 +9,6 @@
   },
   "showFrontmatter": false,
   "foldHeading": false,
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "legacyEditor": false
 }
