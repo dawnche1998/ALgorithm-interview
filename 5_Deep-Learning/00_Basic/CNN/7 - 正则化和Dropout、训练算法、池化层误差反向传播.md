@@ -19,7 +19,7 @@ dropout是CNN中防止过拟合提高效果的一个大杀器，但对于其为�
 
 Dropout的出现很好的可以解决这个问题，每次做完dropout，相当于从原始的网络中找到一个更瘦的网络，如下图所示：
 
-![](D:\OneDrive\04_AlgorithmNotes\5-Deep-Learning\Data\dropOut.png)
+![](../../../Data/dropOut.png)
 
 ---
 
