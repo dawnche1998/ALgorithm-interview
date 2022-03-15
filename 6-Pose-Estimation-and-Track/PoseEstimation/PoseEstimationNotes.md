@@ -45,16 +45,19 @@
 3. **2018 ECCV - MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network**
 
 4. **2018 ECCV - PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up Part-Based Geometric Embedding Model**
+5. **2016 DeepCut / DeeperCut**
+6. **PPN**
+7. **PiPafNet**
 
 5. **2019 Arxiv - Object as Points** [[2020 Objects as Points]]
 
 6. **2020 CVPR - Higher HRNet**
 
-7. **2019 ICCV - Single-Stage Multi-Person Pose Machines**
 
-### 4.3 one-stage Net
+### 4.3 one-stage net
 
-1. **2019.08 Single-Stage Multi-Person Pose Machines**
+1. 2017 heatmap and  associative embedding maps
+2. **2019.08 Single-Stage Multi-Person Pose Machines**
 
 2. **2019.11(DirectPose) Direct End-to-End Multi-Person Pose Estimation**
 

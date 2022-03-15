@@ -4,6 +4,11 @@
       "type": "file",
       "title": "CVPR 2021 姿态估计跟踪论文整理",
       "path": "6-Pose Estimation and Track/CVPR 2021 姿态估计跟踪论文整理.md"
+    },
+    {
+      "type": "file",
+      "title": "多人姿态估计和跟踪的思路总结",
+      "path": "6-Pose-Estimation-and-Track/多人姿态估计和跟踪的思路总结.md"
     }
   ]
 }

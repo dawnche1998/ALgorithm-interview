@@ -7,8 +7,9 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "foldHeading": false,
   "communityPluginSortOrder": "download",
-  "legacyEditor": false
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true
 }
