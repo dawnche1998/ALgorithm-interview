@@ -1,11 +1,11 @@
-神经网络的结构
-=======
+# 神经网络的结构
+---
 
 神经网络分为输入层、中间层、输出层。如图：  
 ![](https://img-blog.csdnimg.cn/20191101074534655.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTQwNzY2OA==,size_16,color_FFFFFF,t_70#pic_center)
 
-卷积神经网络
-======
+# 卷积神经网络
+---
 
 1.  Convolutional Neural Networks CNN：可以有效降低反馈（传统）神经网络的复杂性
 2.   CNN 发展的重要方向：层次的增加，从而利用增加的非线性神经元得出目标函数的近似结构，同时得出更好的特征表达。但是也导致了网络整体复杂度增加，使网络更加难优化。很容易产生**模型过拟合 \ 模型退化**情况。

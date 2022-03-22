@@ -1,12 +1,18 @@
 [
-  "obsidian-git",
   "ProxyGithub",
-  "obsidian-enhancing-mindmap",
   "hotkeysplus-obsidian",
-  "obsidian-pandoc",
   "obsidian-hider",
-  "obsidian-kanban",
-  "calendar",
   "tag-wrangler",
-  "obsidian-minimal-settings"
+  "obsidian-annotator",
+  "obsidian-auto-link-title",
+  "obsidian-commits",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings",
+  "obsidian-pandoc",
+  "obsidian-enhancing-mindmap",
+  "obsidian-git",
+  "obsidian-memos",
+  "calendar",
+  "table-editor-obsidian",
+  "obsidian-day-planner"
 ]

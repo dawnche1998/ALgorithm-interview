@@ -1,5 +1,7 @@
 # Loss Function
 
+
+
 > 很多 loss 函数都有 `size_avarage` 和 `reduce` 两个布尔类型的参数，因为一般损失函数都是直接计算 batch 的数据，因此返回的 loss 结果都是维度为 (batch_size, ) 的向量。
 >
 > - 如果 reduce = 'sum'，那么 size_average 参数失效，直接返回向量形式的 loss；
@@ -79,3 +81,8 @@ output.backward()
 ### nn.HingeEmbeddingLoss
 
 ### nn.TripleMarginLoss
+
+---
+值得阅读
+
+[ Github - A collection of loss functions for medical image segmentation](https://github.com/JunMa11/SegLoss)

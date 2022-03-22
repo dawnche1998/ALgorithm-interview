@@ -11,5 +11,6 @@
   "foldHeading": false,
   "communityPluginSortOrder": "download",
   "legacyEditor": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Data"
 }

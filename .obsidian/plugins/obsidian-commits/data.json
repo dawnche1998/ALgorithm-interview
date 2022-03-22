@@ -1,0 +1,444 @@
+{
+  "initialized": true,
+  "trackedProjects": [
+    "/"
+  ],
+  "filesCheckpoint": {
+    "TODO.md": {
+      "size": 418,
+      "tags": 0,
+      "links": 0
+    },
+    "README.md": {
+      "size": 1140,
+      "tags": 0,
+      "links": 0
+    },
+    "Template/Paper Reading Note Template.md": {
+      "size": 67,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/2022-03-17.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/2022-03-16.md": {
+      "size": 134,
+      "tags": 0,
+      "links": 0
+    },
+    "6-Pose-Estimation-and-Track/Paper - CVPR 2021 PoseTrack Papers.md": {
+      "size": 3936,
+      "tags": 0,
+      "links": 0
+    },
+    "6-Pose-Estimation-and-Track/Note - 用指数滑动平均滤波来稳定轻量模型的输出.md": {
+      "size": 3480,
+      "tags": 0,
+      "links": 0
+    },
+    "6-Pose-Estimation-and-Track/Note - 毕业论文第四章大纲.md": {
+      "size": 5973,
+      "tags": 0,
+      "links": 5
+    },
+    "6-Pose-Estimation-and-Track/Note - 多人姿态估计和跟踪的思路总结.md": {
+      "size": 7079,
+      "tags": 0,
+      "links": 8
+    },
+    "6-Pose-Estimation-and-Track/Note - PoseTrack.md": {
+      "size": 5882,
+      "tags": 0,
+      "links": 0
+    },
+    "6-Pose-Estimation-and-Track/Note - PoseEstimation.md": {
+      "size": 6407,
+      "tags": 1,
+      "links": 3
+    },
+    "6-Pose-Estimation-and-Track/CenterTrack/Process.md": {
+      "size": 2024,
+      "tags": 0,
+      "links": 0
+    },
+    "6-Pose-Estimation-and-Track/2021 Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation.md": {
+      "size": 679,
+      "tags": 2,
+      "links": 0
+    },
+    "6-Pose-Estimation-and-Track/2021 FCPose.md": {
+      "size": 78,
+      "tags": 1,
+      "links": 0
+    },
+    "6-Pose-Estimation-and-Track/2021 DEKR.md": {
+      "size": 11865,
+      "tags": 2,
+      "links": 1
+    },
+    "6-Pose-Estimation-and-Track/2021 DCPose.md": {
+      "size": 340,
+      "tags": 1,
+      "links": 0
+    },
+    "6-Pose-Estimation-and-Track/2020 UDP.md": {
+      "size": 2524,
+      "tags": 3,
+      "links": 0
+    },
+    "6-Pose-Estimation-and-Track/2020 GFocal Loss.md": {
+      "size": 190,
+      "tags": 1,
+      "links": 0
+    },
+    "6-Pose-Estimation-and-Track/2020 DARK Pose.md": {
+      "size": 2418,
+      "tags": 2,
+      "links": 6
+    },
+    "6-Pose-Estimation-and-Track/2020 Combining detection and tracking for human pose estimation in videos .md": {
+      "size": 659,
+      "tags": 1,
+      "links": 1
+    },
+    "6-Pose-Estimation-and-Track/2020  DY-CNN.md": {
+      "size": 3303,
+      "tags": 2,
+      "links": 4
+    },
+    "6-Pose-Estimation-and-Track/2019 LightTrack.md": {
+      "size": 165,
+      "tags": 1,
+      "links": 0
+    },
+    "6-Pose-Estimation-and-Track/2018 DSNT.md": {
+      "size": 96,
+      "tags": 2,
+      "links": 0
+    },
+    "5_Deep-Learning/Paper - CV Paper Link.md": {
+      "size": 6422,
+      "tags": 0,
+      "links": 4
+    },
+    "5_Deep-Learning/Note - 常用算法和概念.md": {
+      "size": 128,
+      "tags": 0,
+      "links": 0
+    },
+    "5_Deep-Learning/Note - Terms In CV.md": {
+      "size": 5447,
+      "tags": 0,
+      "links": 0
+    },
+    "5_Deep-Learning/Note - Pytorch.md": {
+      "size": 3256,
+      "tags": 0,
+      "links": 1
+    },
+    "5_Deep-Learning/Deformable Convolution.md": {
+      "size": 66,
+      "tags": 2,
+      "links": 0
+    },
+    "5_Deep-Learning/03_ObjectTrack/Note - 多目标跟踪.md": {
+      "size": 134,
+      "tags": 0,
+      "links": 0
+    },
+    "5_Deep-Learning/01_Classification/05_ResNet/ResNet.md": {
+      "size": 376,
+      "tags": 0,
+      "links": 1
+    },
+    "5_Deep-Learning/01_Classification/04_GoogleNet/GoogleNet.md": {
+      "size": 769,
+      "tags": 0,
+      "links": 1
+    },
+    "5_Deep-Learning/01_Classification/02_AlexNet/2_AlexNet.md": {
+      "size": 5587,
+      "tags": 0,
+      "links": 3
+    },
+    "5_Deep-Learning/01_Classification/03_VGG/3_VGG.md": {
+      "size": 151,
+      "tags": 0,
+      "links": 0
+    },
+    "5_Deep-Learning/00_Basic/关于 super( ).__init__( ).md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "5_Deep-Learning/00_Basic/Loss Function.md": {
+      "size": 2324,
+      "tags": 0,
+      "links": 0
+    },
+    "5_Deep-Learning/00_Basic/encode - decode 编码器解码器.md": {
+      "size": 3300,
+      "tags": 0,
+      "links": 0
+    },
+    "5_Deep-Learning/00_Basic/CNN/6 - 理解CNN参数初始化、过拟合.md": {
+      "size": 5175,
+      "tags": 0,
+      "links": 0
+    },
+    "5_Deep-Learning/00_Basic/CNN/8 - 数据增强、梯度下降.md": {
+      "size": 1344,
+      "tags": 1,
+      "links": 0
+    },
+    "5_Deep-Learning/00_Basic/CNN/7 - 正则化和Dropout、训练算法、池化层误差反向传播.md": {
+      "size": 1521,
+      "tags": 0,
+      "links": 1
+    },
+    "5_Deep-Learning/00_Basic/CNN/5 - LN层、IN层、GN层、SN层.md": {
+      "size": 223,
+      "tags": 0,
+      "links": 0
+    },
+    "5_Deep-Learning/00_Basic/CNN/4 - BN FC Pooling.md": {
+      "size": 5845,
+      "tags": 0,
+      "links": 0
+    },
+    "5_Deep-Learning/00_Basic/CNN/3 - Activation Layer 激励层.md": {
+      "size": 5329,
+      "tags": 0,
+      "links": 1
+    },
+    "5_Deep-Learning/00_Basic/CNN/2 - Convolution Layer 卷积计算层.md": {
+      "size": 5608,
+      "tags": 0,
+      "links": 0
+    },
+    "5_Deep-Learning/00_Basic/CNN/1 - CNN简介和基本结构.md": {
+      "size": 2552,
+      "tags": 0,
+      "links": 0
+    },
+    "2-Code/复杂度分析.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "2-Code/DynamicProgramming/62-约瑟夫环问题.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "2-Code/C++ Coding.md": {
+      "size": 1301,
+      "tags": 0,
+      "links": 0
+    },
+    "3-Math/概率论.md": {
+      "size": 12024,
+      "tags": 0,
+      "links": 2
+    },
+    "3-Math/最优化方法.md": {
+      "size": 168,
+      "tags": 0,
+      "links": 0
+    },
+    "3-Math/MaximumLikelihoodEstimation.md": {
+      "size": 269,
+      "tags": 0,
+      "links": 0
+    },
+    "1-Basis/Python/Python 常用方法.md": {
+      "size": 9395,
+      "tags": 0,
+      "links": 0
+    },
+    "1-Basis/Python/Grammer.md": {
+      "size": 66,
+      "tags": 0,
+      "links": 0
+    },
+    "1-Basis/OS/OS.md": {
+      "size": 7521,
+      "tags": 0,
+      "links": 0
+    },
+    "1-Basis/Git.md": {
+      "size": 228,
+      "tags": 0,
+      "links": 0
+    },
+    "1-Basis/C++/C++基础知识.md": {
+      "size": 2097,
+      "tags": 0,
+      "links": 0
+    },
+    "1-Basis/C++/C++STL.md": {
+      "size": 5743,
+      "tags": 0,
+      "links": 0
+    },
+    "1-Basis/C++/C++ 参考资源.md": {
+      "size": 117,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/2022-03-18.md": {
+      "size": 0,
+      "tags": 3,
+      "links": 0
+    },
+    "Day Planners/delete.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
+    },
+    "Day Planners/2022-03-19.md": {
+      "size": 0,
+      "tags": 2,
+      "links": 0
+    },
+    "Day Planners/2022-03-20.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
+    },
+    "Tools/Zotero.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "6-Pose-Estimation-and-Track/2020 CenterNet.md": {
+      "size": 3618,
+      "tags": 1,
+      "links": 0
+    },
+    "Day Planners/2022-03-15.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Day Planners/2022-03-21.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "5_Deep-Learning/00_Basic/Transformer.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 2
+    },
+    "5_Deep-Learning/DLA.md": {
+      "size": 11,
+      "tags": 0,
+      "links": 0
+    }
+  },
+  "commitTypes": {
+    "/": {
+      "Refactor": 10,
+      "Create": 8,
+      "Link": 8,
+      "Expand": 0
+    }
+  },
+  "dailyCommits": {
+    "/": {
+      "0": 2,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 1,
+      "13": 0,
+      "14": 2,
+      "15": 5,
+      "16": 2,
+      "17": 0,
+      "18": 4,
+      "19": 2,
+      "20": 0,
+      "21": 4,
+      "22": 3,
+      "23": 1
+    }
+  },
+  "weeklyCommits": {
+    "/": {
+      "Mon": 2,
+      "Tue": 0,
+      "Wed": 0,
+      "Thu": 4,
+      "Fri": 5,
+      "Sat": 0,
+      "Sun": 15
+    }
+  },
+  "recentCommits": {
+    "/": {
+      "Expanded": [],
+      "Created": [
+        "<a class=\"internal-link\" href=\"Day Planners/2022-03-18.md\"> 2022-03-18 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/delete.md\"> delete </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/2022-03-19.md\"> 2022-03-19 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/2022-03-20.md\"> 2022-03-20 </a>",
+        "<a class=\"internal-link\" href=\"Tools/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/2022-03-15.md\"> 2022-03-15 </a>",
+        "<a class=\"internal-link\" href=\"5_Deep-Learning/未命名.md\"> 未命名 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/2022-03-21.md\"> 2022-03-21 </a>"
+      ],
+      "Renamed": [
+        "<a class=\"internal-link\" href=\"Tools/tools.md\"> tools </a>",
+        "<a class=\"internal-link\" href=\"Tools/Zotero.md\"> Zotero </a>",
+        "<a class=\"internal-link\" href=\"6-Pose-Estimation-and-Track/2020 CenterNet.md\"> 2020 CenterNet </a>",
+        "<a class=\"internal-link\" href=\"5_Deep-Learning/Transformer.md\"> Transformer </a>",
+        "<a class=\"internal-link\" href=\"5_Deep-Learning/00_Basic/Transformer.md\"> Transformer </a>",
+        "<a class=\"internal-link\" href=\"5_Deep-Learning/DLA.md\"> DLA </a>"
+      ],
+      "Tagged": [
+        "<a class=\"internal-link\" href=\"Day Planners/2022-03-18.md\"> 2022-03-18 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/2022-03-18.md\"> 2022-03-18 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/2022-03-19.md\"> 2022-03-19 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/2022-03-19.md\"> 2022-03-19 </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/2022-03-20.md\"> 2022-03-20 </a>"
+      ],
+      "Refactored": [],
+      "Deleted": [
+        "<a class=\"internal-link\" href=\"6-Pose-Estimation-and-Track/PoseTrack/DCPose/README.md\"> README </a>",
+        "<a class=\"internal-link\" href=\"6-Pose-Estimation-and-Track/PoseTrack/DCPose/docs/Installation.md\"> Installation </a>",
+        "<a class=\"internal-link\" href=\"6-Pose-Estimation-and-Track/PoseTrack/DCPose/datasets/zoo/posetrack/posetrack_utils/poseval/py-motmetrics/Readme.md\"> Readme </a>",
+        "<a class=\"internal-link\" href=\"6-Pose-Estimation-and-Track/PoseTrack/DCPose/datasets/zoo/posetrack/posetrack_utils/poseval/py-motmetrics/Release.md\"> Release </a>"
+      ],
+      "Linked": [
+        "<a class=\"internal-link\" href=\"Day Planners/delete.md\"> delete </a>",
+        "<a class=\"internal-link\" href=\"Day Planners/delete.md\"> delete </a>",
+        "<a class=\"internal-link\" href=\"5_Deep-Learning/Transformer.md\"> Transformer </a>"
+      ],
+      "Removed Tags from": [],
+      "Removed Links from": []
+    }
+  },
+  "ignoreList": [],
+  "divWidth": 50,
+  "divHeight": 400,
+  "divAlign": "left",
+  "topCommits": 2,
+  "commitThreshold": 2000,
+  "commitPerc": 15,
+  "fillColor": "rgba(51, 153, 204, 0.4)",
+  "borderColor": "rgba(51, 153, 204, 1)",
+  "gridColor": "grey"
+}

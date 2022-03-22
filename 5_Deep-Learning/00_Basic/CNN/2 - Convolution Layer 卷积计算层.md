@@ -66,3 +66,6 @@ RGB 图片输入卷积计算过程
 
 # 1X1卷积
 对通道起到合并作用。  1 × 1 卷积的唯⼀计算发生在通道上。
+
+---
+[Understanding Convelutions](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)

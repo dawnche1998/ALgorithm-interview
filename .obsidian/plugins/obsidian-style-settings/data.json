@@ -1,0 +1,15 @@
+{
+  "minimal-advanced@@cursor": "pointer",
+  "minimal-style@@tag-radius": "4px",
+  "minimal-style@@h2": "1.1 em",
+  "minimal-style@@icon-muted": 0.45,
+  "minimal-style@@tag-color@@light": "#BE5333",
+  "minimal-style@@tag-color@@dark": "#61C19D",
+  "minimal-style@@checkbox-shape": "checkbox-square",
+  "minimal-style@@blockquote-size": "12",
+  "minimal-style@@blockquote-style": "normal",
+  "minimal-style@@text-blockquote@@light": "#514646",
+  "minimal-style@@title-alignment": "title-align-body",
+  "minimal-style@@show-grabber": false,
+  "minimal-advanced@@font-smallest": 10
+}

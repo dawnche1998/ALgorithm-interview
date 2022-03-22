@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "41a0c2f2c1c7248c",
+        "id": "2bcb03c5f26de5e1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "6-Pose-Estimation-and-Track/2021 [DEKR] Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression.md",
+            "file": "6-Pose-Estimation-and-Track/Note - 毕业论文第四章大纲.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.0042610168457,
+    "width": 255.0042610168457,
     "collapsed": true
   },
   "right": {
@@ -79,7 +79,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -89,23 +89,15 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-Pose-Estimation-and-Track/2021 [DEKR] Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression.md",
+                "file": "6-Pose-Estimation-and-Track/Note - 毕业论文第四章大纲.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "724ded0b9932fdd2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -114,28 +106,59 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-Pose-Estimation-and-Track/2021 [DEKR] Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression.md"
+                "file": "6-Pose-Estimation-and-Track/Note - 毕业论文第四章大纲.md"
               }
+            }
+          },
+          {
+            "id": "c5fab972660565b9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "faa0a8bf541af500",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
+      },
+      {
+        "id": "5ab7e15724520716",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5a0550896b07ad",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 341.0908508300781
+    "width": 321.59088134765625,
+    "collapsed": true
   },
-  "active": "41a0c2f2c1c7248c",
+  "active": "2bcb03c5f26de5e1",
   "lastOpenFiles": [
-    "6-Pose-Estimation-and-Track/2021 [DEKR] Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression.md",
-    "6-Pose-Estimation-and-Track/多人姿态估计和跟踪的思路总结.md",
-    "6-Pose-Estimation-and-Track/和老师讨论.md",
-    "6-Pose-Estimation-and-Track/2020 [UDP] The Devil is in the Details Delving into Unbiased Data Processing for Human Pose Estimation.md",
-    "6-Pose-Estimation-and-Track/2020 [DARK Pose] Distribution-Aware Coordinate Representation for Human Pose Estimation.md",
-    "6-Pose-Estimation-and-Track/2020  [DY-CNN] Dynamic Convolution-Attention over Convolution Kernels.md",
-    "6-Pose-Estimation-and-Track/PoseEstimation/2018 CVPR - DSNT - Numerical Coordinate Regression with Convolutional Neural Networks.md",
-    "6-Pose-Estimation-and-Track/用指数滑动平均滤波来稳定轻量模型的输出.md",
-    "6-Pose-Estimation-and-Track/PoseTrack/CVPR 2021 姿态估计跟踪论文整理.md",
-    "6-Pose-Estimation-and-Track/CenterTrack.md"
+    "6-Pose-Estimation-and-Track/Note - 毕业论文第四章大纲.md",
+    "6-Pose-Estimation-and-Track/2021 DEKR.md",
+    "6-Pose-Estimation-and-Track/2021 DCPose.md",
+    "Tools/Zotero.md",
+    "Day Planners/2022-03-15.md",
+    "5_Deep-Learning/03_ObjectTrack/Note - 多目标跟踪.md",
+    "5_Deep-Learning/Deformable Convolution.md",
+    "5_Deep-Learning/DLA.md",
+    "5_Deep-Learning/00_Basic/Loss Function.md",
+    "5_Deep-Learning/00_Basic/关于 super( ).__init__( ).md"
   ]
 }
